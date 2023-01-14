@@ -1,3 +1,11 @@
+Assignment 3 completed:
+
+Working PyBank   main.py added.
+Working PyPoll   main.py added.
+Directories for PyBank and Pypoll as well as output.txt added for both.
+
+Module 3 Assignment Instuctions:
+
 # Unit 3 Homework: Python
 
 In this assignment, you'll complete two challenges in which you'll apply your new Python skills. 
